@@ -63,7 +63,7 @@ class AdaKit extends PluginBase {
 							}
 						});
 						$modalform->setTitle("Ada Kit");
-						$modalform->setContent("\nAlınacak Kit : Ada Kit\nEşyalar:\n\n10 Adet Karpuz\n10 Adet Şeker Kamışı\n32 Adet Taş\n3 Tane Zümrüt\n5 Tane Elmas\n\nBu kiti seçmek istiyormusunuz?");
+						$modalform->setContent("\nAlınacak Kit : Ada Kit\nEşyalar:\n\n10 Adet Karpuz\n10 Adet Şeker Kamışı\n32 Adet Taş\n3 Adet Zümrüt\n5 Adet Elmas\n\nBu kiti seçmek istiyormusunuz?");
 						$modalform->setButton1("Evet");
 						$modalform->setButton2("Hayır");
 						$modalform->sendToPlayer($e);
