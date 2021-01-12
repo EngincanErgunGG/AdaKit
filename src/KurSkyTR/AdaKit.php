@@ -1,6 +1,6 @@
 <?php
 
-namespace InfinityGame;
+namespace KurSkyTR;
 
 use pocketmine\{
 	plugin\PluginBase,
