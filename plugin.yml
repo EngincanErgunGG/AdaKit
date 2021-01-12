@@ -1,0 +1,9 @@
+name: AdaKit
+api: 3.15.2+dev
+main: InfinityGame\AdaKit
+version: 1.0
+author: EngincanErgunGG
+
+commands:
+  adakit:
+    description: "Oyuncular için ada kit ekranı."
